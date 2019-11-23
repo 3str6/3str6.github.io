@@ -1,9 +1,0 @@
-site_name: 個人用作業メモ
-theme: readthedocs
-
-nav:
-- Home: 'index.md'
-- Blender: 'blender.md'
-- ZBrush: 'zbrush.md'
-- やってみたこと: 'trials.md'
-- 作ってみたもの: 'works.md'
